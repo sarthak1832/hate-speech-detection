@@ -1,0 +1,18 @@
+# Python virtual environment
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Dataset files (large or sensitive)
+data/labeled_data.csv
+
+# Model files
+model.pkl
+vectorizer.pkl
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
